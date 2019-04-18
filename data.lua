@@ -1,0 +1,8 @@
+require("prototypes.item")
+require("prototypes.recipe")
+require("prototypes.technology")
+require("prototypes.key")
+require("prototypes.entity.vanilla-combinators")
+require("prototypes.entity.sbs-arithmetic-combinator")
+require("prototypes.entity.sbs-decider-combinator")
+require("prototypes.entity.sbs-constant-combinator")
